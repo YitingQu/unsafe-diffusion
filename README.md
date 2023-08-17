@@ -6,11 +6,10 @@ Paper: https://arxiv.org/pdf/2305.13873.pdf
 
 ## Unsafe Image Generation
 
-Request the prompt datasets and labeled image dataset here: https://zenodo.org/record/8255664
 
 ### 1. Collecting Prompts
 
-We use three harmful prompt datasets and one harmless prompt dataset.
+We use three harmful prompt datasets and one harmless prompt dataset. Request the prompt datasets here: https://zenodo.org/record/8255664
 
 - 4chan prompts (harmful)
 - Lexica prompts (harmful)
@@ -28,7 +27,7 @@ We use four open-sourced Text-to-Image models:
 
 ### 3. Unsafe Image Classification
 
-We labeled 800 generated images.
+We labeled 800 generated images. Request the image dataset here: https://zenodo.org/record/8255664
 
 **Prerequisite**
 
