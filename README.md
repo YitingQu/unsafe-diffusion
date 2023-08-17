@@ -10,14 +10,12 @@ Request the prompt datasets and labeled image dataset here: https://zenodo.org/r
 
 ### 1. Collecting Prompts
 
-We use three harmful prompt datasets and one clean prompt dataset.
+We use three harmful prompt datasets and one harmless prompt dataset.
 
-- 4chan prompts
-- Lexica prompts
-- Template prompts
-- COCO prompts (clean)
-
-If you need the above prompts for research, please drop me(yiting.qu@cispa.de) an email :)
+- 4chan prompts (harmful)
+- Lexica prompts (harmful)
+- Template prompts (harmful)
+- COCO prompts (harmless)
 
 ### 2. Generating Images
 
